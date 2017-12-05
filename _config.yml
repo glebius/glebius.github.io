@@ -1,0 +1,15 @@
+title: glebius's blog
+description: >-
+  technical stuff that doesn't fit into any source repo, but
+  calls to be described | crazy garage DYI projects |
+  my thoughts & observations | something else?
+url: http://blog.glebi.us
+
+markdown: kramdown
+remote_theme: glebius/BlackDoc
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+facebook:
+  app_id: 131530517555849
